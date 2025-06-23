@@ -1,6 +1,13 @@
 # BankMerge
 
+**BankMerge** é uma ferramenta em Python desenvolvida para automatizar a leitura e consolidação de extratos bancários de diferentes instituições financeiras.
 
-Projeto desenvolvido para automatizar a leitura e consolidação de extratos bancários provenientes de diferentes instituições financeiras.
-A ferramenta é capaz de processar arquivos de diversos formatos (PDF, CSV, OFX etc.), padronizar os dados e gerar um único relatório em Excel, facilitando a análise e o controle financeiro centralizado.
-Ideal para uso pessoal, empresas ou contadores que lidam com múltiplas contas bancárias.
+O sistema processa arquivos no formato **XLS**, padroniza os dados e gera um relatório unificado, facilitando a análise e o controle financeiro.
+
+### 🔍 Principais usos:
+
+* Consolidação de extratos bancários de múltiplas contas
+* Geração de base para **fluxo de caixa**, **relatórios financeiros**, **contas a pagar/receber**
+* Aplicável em **uso pessoal**, **empresas** e **escritórios de contabilidade**
+
+> O projeto nasceu da necessidade de construir o fluxo de caixa de uma empresa a partir dos extratos bancários, mas evoluiu para uma solução flexível de integração e padronização de dados financeiros.
